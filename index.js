@@ -13,7 +13,7 @@ function returnsANamedFunction(){
 }
 
 function returnsAnAnonymousFunction(){
-    return functioncls (){
+    return function(){
         return ""
     }
 }
